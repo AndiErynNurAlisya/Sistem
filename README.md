@@ -115,4 +115,7 @@ Pull request sangat diterima. Untuk perubahan besar, harap buka issue terlebih d
 <img width="2880" height="1705" alt="image" src="https://github.com/user-attachments/assets/741b07d6-f785-4efd-8192-9b26893d3f62" />
 3. Halaman utama
 <img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/48573aef-108e-4d82-8e0a-f17285b78906" />
+4. Dashboard
+<img width="2880" height="1708" alt="image" src="https://github.com/user-attachments/assets/07b40011-af25-4ff4-be2e-906bbf8323b0" />
+
 
